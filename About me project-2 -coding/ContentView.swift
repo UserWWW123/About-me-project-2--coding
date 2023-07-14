@@ -78,6 +78,7 @@ struct ContentView: View {
                     .tint(Color(red: 157/255, green:140/255, blue: 188/255))
                     .cornerRadius(5.0)
                     Spacer()
+                    Spacer()
                 }
             }
             }
